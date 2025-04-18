@@ -27,3 +27,33 @@ Ensure you have the following installed:
   - `nltk`
   - `gensim`
   - `scikit-learn`
+ 
+---
+
+## 📊 Project Highlights
+
+### 1. Kindle Review Sentiment Analysis
+- **Objective:** Analyze customer reviews from Kindle products to determine sentiment polarity.
+- **Techniques Used:**
+  - Text preprocessing (tokenization, stopword removal)
+  - Feature extraction using Word2Vec
+  - Classification using machine learning models
+
+### 2. Parts of Speech and Named Entity Recognition
+- **Objective:** Identify grammatical components and named entities in text.
+- **Techniques Used:**
+  - POS tagging using NLTK
+  - Named Entity Recognition to extract entities like names, locations, etc.
+
+### 3. Stemming and Stopword Removal
+- **Objective:** Demonstrate text normalization techniques.
+- **Techniques Used:**
+  - Applying stemming algorithms (e.g., Porter Stemmer)
+  - Removing common stopwords to reduce noise in text data
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
+
